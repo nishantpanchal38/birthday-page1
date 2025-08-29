@@ -1,0 +1,22 @@
+h1{
+    color: rgb(236, 139, 155);
+    
+}
+.mainbox{
+    width: 700px;
+    height: 400px;
+    border: 2px solid pink;
+    background-color: rgb(253, 228, 232);
+    text-align: center;
+    margin-left: 100px;
+}
+.titlebox{
+    color: palevioletred;
+}
+.para{
+    color: palevioletred;
+    font-style: italic;
+}
+.animation_cake{
+    font-size: 10px;
+}
